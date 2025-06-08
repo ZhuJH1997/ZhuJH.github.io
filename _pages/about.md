@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research focuses on Additive Manufacturing (AM) and Process Intelligence. For AM, I primarily work on
+the generative design, process optimization, and material characterization for metal AM through laser powder bed
+fusion system (Renishaw AM400) to develop high-performance super alloys for aerospace and medical industries. For
+Process Intelligence, recognizing that metal printer training can be costly and complex, I am interested in advancing
+process intelligence as a human-centric knowledge system, one that empowers users by capturing expert knowledge and
+delivering it in a way that enhances learning, decision-making, and operational efficiency.
 
 A data-driven personal website
 ======
