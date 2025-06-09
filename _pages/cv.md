@@ -67,9 +67,11 @@ Publications
 Sekhar Nanda, Xiaochun Li, Ali Khademhosseini, Bingbing Li*, 3D Printing and Surface Engineering of
 Ti6Al4V Scaffolds for Enhanced Osseointegration in an In Vitro Study, Biomimetics, 2024, Vol. 9 (7),
 p. 423. https://doi.org/10.3390/biomimetics9070423
+======
 • Changyu Ma, Tianqi Zheng, Yu-Keng Lin, Jianhao Zhu, Xiaochun Li, Y. Morris Wang, Bingbing Li*,
 Microstructure and Mechanical Properties of Haynes 282 Fabricated by Pulsed Wave (PW) Laser
 Powder Bed Fusion (L-PBF), Progress in Additive Manufacturing. Under review
+======
 • Tongzi Wu, Sidi Deng, Jianhao Zhu, Chenshu Liu, John W. Sutherland, Richard Donovan, Xiyi Hang, Bingbing
 Li*, State Prediction and Energy Disaggregation using LSTM-transformer Model for Sustainable
 Manufacturing, Applied Energy. Work in progress
