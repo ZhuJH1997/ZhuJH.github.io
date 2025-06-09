@@ -61,8 +61,7 @@ Skills
 Stratasys Uprint SE FDM printer for platics. Year 2020-2024
 
 
-Publications
-
+**Publications**
 ======
 • Changyu Ma, Natan Roberto de Barros, Tianqi Zheng, Alejandro Gomez, Marshall Doyle, Jianhao Zhu, Himansu
 Sekhar Nanda, Xiaochun Li, Ali Khademhosseini, Bingbing Li*, 3D Printing and Surface Engineering of
